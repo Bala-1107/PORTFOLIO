@@ -9687,3 +9687,39 @@ h4, h5, h6 {
 .testimonial-carousel .owl-dot.active {
   background: #78CC6D;
 }
+/* ===== Education Section ===== */
+.edu-card {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  transition: 0.3s ease;
+  height: 100%;
+}
+
+.edu-card:hover {
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+}
+
+.edu-card i {
+  transition: 0.3s ease;
+}
+
+.edu-card:hover i {
+  transform: scale(1.1);
+}
+
+.edu-card h5 {
+  color: #007bff;
+  font-weight: 600;
+}
+
+.edu-card p {
+  color: #555;
+  font-size: 15px;
+  margin-bottom: 0.4rem;
+}
+
+.edu-card h6 {
+  font-size: 14px;
+}
+
