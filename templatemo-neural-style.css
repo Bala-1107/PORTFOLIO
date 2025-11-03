@@ -1277,5 +1277,31 @@ https://templatemo.com/tm-597-neural-glass
      box-shadow: 0 0 15px rgba(255, 0, 128, 0.7);
 }
 
+/* Resume Download Button (Hero Section) */
+.resume-btn-container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.resume-btn {
+  display: inline-block;
+  padding: 14px 40px;
+  background: linear-gradient(135deg, #ff69b4, #e0a3ff);
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(224, 163, 255, 0.3);
+}
+
+.resume-btn:hover {
+  background: linear-gradient(135deg, #e0a3ff, #ff69b4);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(224, 163, 255, 0.5);
+}
+
+
 
 
