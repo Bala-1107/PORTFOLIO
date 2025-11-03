@@ -404,7 +404,7 @@ https://templatemo.com/tm-597-neural-glass
      max-width: 1000px;
      padding: 80px 40px;
 	 margin-top: 60px;
-	 transform: translateY(-60px);
+	 transform: translateY(-30px);
      animation: heroAppear 2.5s ease-out;
      position: relative;
      background: none;
@@ -1305,6 +1305,7 @@ https://templatemo.com/tm-597-neural-glass
 .thanks-visit{
 	text-align:center;
 }
+
 
 
 
