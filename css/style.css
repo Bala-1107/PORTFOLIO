@@ -9722,4 +9722,18 @@ h4, h5, h6 {
 .edu-card h6 {
   font-size: 14px;
 }
+/* Custom light green outline button */
+.btn-outline-green {
+    color: #28a745; /* light green text color */
+    border: 2px solid #28a745; /* green outline */
+    background-color: transparent;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-outline-green:hover {
+    background-color: #28a745;
+    color: white;
+    border-color: #28a745;
+}
 
